@@ -31,10 +31,10 @@ A A# B C C# D D# E F F# G G#
 
 ### Ex 4: C
 #### Ionian
-- Scale
+- Scale  
 C D E F G A B
 
-- Chords
+- Chords  
 C Dm Em F G Am Bdim7
 
 - C Ionian uses the same chords as
@@ -46,10 +46,10 @@ C Dm Em F G Am Bdim7
     - B Locrian     -   Bdim7 C Dm Em F G Am
 
 #### Dorian
-- Scale
+- Scale  
 C D D# F G A A#
 
-- Chords
+- Chords  
 Cm Dm D# F Gm Adim7 A#
 
 - C Dorian uses the same chords as
@@ -61,10 +61,10 @@ Cm Dm D# F Gm Adim7 A#
     - A# Ionian     -   A# Cm Dm D# F Gm Adim7
 
 #### Phrygian
-- Scale
+- Scale  
 C C# D# F G G# A#
 
-- Chords
+- Chords  
 Cm C# D# Fm Gdim7 G# A#m
 
 - C Phrygian uses the same chords as
@@ -76,10 +76,10 @@ Cm C# D# Fm Gdim7 G# A#m
     - A# Dorian     -   A#m Cm C# D# Fm Gdim7 G#
 
 #### Lydian
-- Scale
+- Scale  
 C D E F# G A B
 
-- Chords
+- Chords  
 C D Em F#dim7 G Am Bm
 
 - C Lydian uses the same chords as
@@ -91,10 +91,10 @@ C D Em F#dim7 G Am Bm
     - B Phrygian    -   Bm C D Em F#dim7 G Am
 
 #### MixoLydian
-- Scale
+- Scale  
 C D E F G A A#
 
-- Chords
+- Chords  
 C Dm Edim7 F Gm Am A#
 
 - C Mixolydian uses the same chords as
@@ -106,10 +106,10 @@ C Dm Edim7 F Gm Am A#
     - A# Lydian     -   A# C Dm Edim7 F Gm Am
 
 #### Aeolian
-- Scale
+- Scale  
 C D D# F G G# A#
 
-- Chords
+- Chords  
 Cm Ddim7 D# Fm Gm G# A#
 
 - C Aeolian uses the same chords as
@@ -121,10 +121,10 @@ Cm Ddim7 D# Fm Gm G# A#
     - A# Mixolydian -   A# Cm Ddim7 D# Fm Gm G#
 
 #### Locrian
-- Scale
+- Scale  
 C C# D# F F# G# A#
 
-- Chords
+- Chords  
 Cdim7 C# D#m Fm F# G# A#m
 
 - C Locrian uses the same chords as
