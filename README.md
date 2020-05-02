@@ -135,4 +135,20 @@ Cdim7 C# D#m Fm F# G# A#m
     - G# Mixolydian -   G# A#m Cdim7 C# D#m Fm F#
     - A# Aeolian    -   A#m Cdim7 C# D#m Fm F# G#
 
+### Ex 5: C#
+
+### Ex 6: D
+
+### Ex 7: D#
+
+### Ex 8: E
+
+### Ex 9: F
+
+### Ex 10: F#
+
+### Ex 11: G
+
+### Ex 12: G#
+
 <p align="center">Taught with a :heart: by Joran aka den Joe dikken!</p>
