@@ -19,7 +19,7 @@ A A# B C C# D D# E F F# G G#
 3) Phrygian                 -   |---|--
 4) Lydian                   -   ---|--|
 5) Mixolydian               -   --|--|-
-6) Aelian (natural minor)   -   -|--|--
+6) Aeolian (natural minor)   -   -|--|--
 7) Locrian                  -   |--|---
 
 ## Exercises
