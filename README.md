@@ -98,6 +98,12 @@ C D E F G A A#
 C Dm Edim7 F Gm Am A#
 
 - C Mixolydian uses the same chords as
+    - D Aeolian     -   Dm Edim7 F Gm Am A# C
+    - E Locrian     -   Edim7 F Gm Am A# C Dm
+    - F Ionian      -   F Gm Am A# C Dm Edim7
+    - G Dorian      -   Gm Am A# C Dm Edim7 F
+    - A Phrygian    -   Am A# C Dm Edim7 F Gm
+    - A# Lydian     -   A# C Dm Edim7 F Gm Am
 
 #### Aeolian
 - Scale
