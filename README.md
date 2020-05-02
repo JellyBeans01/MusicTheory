@@ -42,7 +42,7 @@ C Dm Em F G Am Bdim7
     - E Phrygian    -   Em F G Am Bdim7 C Dm
     - F Lydian      -   F G Am Bdim7 C Dm Em
     - G Mixolydian  -   G Am Bdim7 C Dm Em F
-    - A Aelian      -   Am Bdim7 C Dm Em F G
+    - A Aeolian      -   Am Bdim7 C Dm Em F G
     - B Locrian     -   Bdim7 C Dm Em F G Am
 
 #### Dorian
@@ -60,13 +60,32 @@ C C# D# F G G# A#
 Cm C# D# Fm Gdim7 G# A#m
 
 #### Lydian
+- Toonladder
+C D E F# G A B
+
+- Akkoorden
+C D Em F#dim7 G Am Bm
 
 #### MixoLydian
+- Toonladder
+C D E F G A A#
 
-#### Aelian
+- Akkoorden
+C Dm Edim7 F Gm Am A#
+
+#### Aeolian
+- Toonladder
+C D D# F G G# A#
+
+- Akkoorden
+Cm Ddim7 D# Fm Gm G# A#
 
 #### Locrian
+- Toonladder
+C C# D# F F# G# A#
 
+- Akkoorden
+Cdim7 C# D#m Fm F# G# A#m
 
 
 <p align="center">Taught with a :heart: by Joran aka den Joe dikken!</p>
