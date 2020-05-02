@@ -1,10 +1,10 @@
 # Oefeningskes Muziek Theorie: Harmonie
 
-## Theorie
-### Noten
+## Theory
+### Notes
 A A# B C C# D D# E F F# G G#
 
-### Graden
+### Degrees
 1) maj7 - maj
 2) min7 - min
 3) min7 - min
@@ -22,22 +22,22 @@ A A# B C C# D D# E F F# G G#
 6) Aelian (natural minor)   -   -|--|--
 7) Locrian                  -   |--|---
 
-## Oefeningen
-### Oef 1: A
+## Exercises
+### Ex 1: A
 
-### Oef 2: A#
+### Ex 2: A#
 
-### Oef 3: B
+### Ex 3: B
 
-### Oef 4: C
+### Ex 4: C
 #### Ionian
-- Toonladder
+- Scale
 C D E F G A B
 
-- Akkoorden
+- Chords
 C Dm Em F G Am Bdim7
 
-- C Ionian bevat zelfde akkoorden als
+- C Ionian uses the same chords as
     - D Dorian      -   Dm Em F G Am Bdim7 C
     - E Phrygian    -   Em F G Am Bdim7 C Dm
     - F Lydian      -   F G Am Bdim7 C Dm Em
@@ -46,13 +46,13 @@ C Dm Em F G Am Bdim7
     - B Locrian     -   Bdim7 C Dm Em F G Am
 
 #### Dorian
-- Toonladder
+- Scale
 C D D# F G A A#
 
-- Akkoorden
+- Chords
 Cm Dm D# F Gm Adim7 A#
 
-- C Dorian bevat dezelfde akkoorden als
+- C Dorian uses the same chords as
     - D Phrygian    -   Dm D# F Gm Adim7 A# Cm
     - D# Lydian     -   D# F Gm Adim7 A# Cm Dm
     - F Mixolydian  -   F Gm Adim7 A# Cm Dm D#
@@ -61,13 +61,13 @@ Cm Dm D# F Gm Adim7 A#
     - A# Ionian     -   A# Cm Dm D# F Gm Adim7
 
 #### Phrygian
-- Toonladder
+- Scale
 C C# D# F G G# A#
 
-- Akkoorden
+- Chords
 Cm C# D# Fm Gdim7 G# A#m
 
-- C Phrygian bevat dezelfde akkoorden als
+- C Phrygian uses the same chords as
     - C# Lydian     -   C# D# Fm Gdim7 G# A#m Cm
     - D# Mixolydian -   D# Fm Gdim7 G# A#m Cm C#
     - F Aeolian     -   Fm Gdim7 G# A#m Cm C# D#
@@ -76,32 +76,45 @@ Cm C# D# Fm Gdim7 G# A#m
     - A# Dorian     -   A#m Cm C# D# Fm Gdim7 G#
 
 #### Lydian
-- Toonladder
+- Scale
 C D E F# G A B
 
-- Akkoorden
+- Chords
 C D Em F#dim7 G Am Bm
 
+- C Lydian uses the same chords as
+    - D Mixolydian  -   D Em F#dim7 G Am Bm C
+    - E Aeolian     -   Em F#dim7 G Am Bm C D
+    - F# Locrian    -   F#dim7 G Am Bm C D Em
+    - G Ionian      -   G Am Bm C D Em F#dim7
+    - A Dorian      -   Am Bm C D Em F#dim7 G
+    - B Phrygian    -   Bm C D Em F#dim7 G Am
+
 #### MixoLydian
-- Toonladder
+- Scale
 C D E F G A A#
 
-- Akkoorden
+- Chords
 C Dm Edim7 F Gm Am A#
 
+- C Mixolydian uses the same chords as
+
 #### Aeolian
-- Toonladder
+- Scale
 C D D# F G G# A#
 
-- Akkoorden
+- Chords
 Cm Ddim7 D# Fm Gm G# A#
 
+- C Aeolian uses the same chords as
+
 #### Locrian
-- Toonladder
+- Scale
 C C# D# F F# G# A#
 
-- Akkoorden
+- Chords
 Cdim7 C# D#m Fm F# G# A#m
 
+- C Locrian uses the same chords as
 
 <p align="center">Taught with a :heart: by Joran aka den Joe dikken!</p>
