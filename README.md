@@ -67,6 +67,14 @@ C C# D# F G G# A#
 - Akkoorden
 Cm C# D# Fm Gdim7 G# A#m
 
+- C Phrygian bevat dezelfde akkoorden als
+    - C# Lydian     -   C# D# Fm Gdim7 G# A#m Cm
+    - D# Mixolydian -   D# Fm Gdim7 G# A#m Cm C#
+    - F Aeolian     -   Fm Gdim7 G# A#m Cm C# D#
+    - G Locrian     -   Gdim7 G# A#m Cm C# D# Fm
+    - G# Ionian     -   G# A#m Cm C# D# Fm Gdim7
+    - A# Dorian     -   A#m Cm C# D# Fm Gdim7 G#
+
 #### Lydian
 - Toonladder
 C D E F# G A B
