@@ -35,7 +35,7 @@ A A# B C C# D D# E F F# G G#
 C D E F G A B
 
 - Akkoorden
-C Dm Em F G Am Bdim7/Bb7
+C Dm Em F G Am Bdim7
 
 - C Ionian bevat zelfde akkoorden als
     - D Dorian      -   Dm Em F G Am Bdim7 C
