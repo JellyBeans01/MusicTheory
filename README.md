@@ -70,4 +70,4 @@ Cm C# D# Fm Gdim7 G# A#m
 
 
 
-Taught with a :heart: by Joran aka den Joe dikken!
+<p style="text-align: center;">Taught with a :heart: by Joran aka den Joe dikken!</p>
