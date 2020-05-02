@@ -128,5 +128,11 @@ C C# D# F F# G# A#
 Cdim7 C# D#m Fm F# G# A#m
 
 - C Locrian uses the same chords as
+    - C# Ionian     -   C# D#m Fm F# G# A#m Cdim7
+    - D# Dorian     -   D#m Fm F# G# A#m Cdim7 C#
+    - F Phrygian    -   Fm F# G# A#m Cdim7 C# D#m
+    - F# Lydian     -   F# G# A#m Cdim7 C# D#m Fm
+    - G# Mixolydian -   G# A#m Cdim7 C# D#m Fm F#
+    - A# Aeolian    -   A#m Cdim7 C# D#m Fm F# G#
 
 <p align="center">Taught with a :heart: by Joran aka den Joe dikken!</p>
