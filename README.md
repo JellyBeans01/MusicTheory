@@ -42,7 +42,7 @@ C Dm Em F G Am Bdim7
     - E Phrygian    -   Em F G Am Bdim7 C Dm
     - F Lydian      -   F G Am Bdim7 C Dm Em
     - G Mixolydian  -   G Am Bdim7 C Dm Em F
-    - A Aeolian      -   Am Bdim7 C Dm Em F G
+    - A Aeolian     -   Am Bdim7 C Dm Em F G
     - B Locrian     -   Bdim7 C Dm Em F G Am
 
 #### Dorian
@@ -51,6 +51,14 @@ C D D# F G A A#
 
 - Akkoorden
 Cm Dm D# F Gm Adim7 A#
+
+- C Dorian bevat dezelfde akkoorden als
+    - D Phrygian    -   Dm D# F Gm Adim7 A# Cm
+    - D# Lydian     -   D# F Gm Adim7 A# Cm Dm
+    - F Mixolydian  -   F Gm Adim7 A# Cm Dm D#
+    - G Aeolian     -   Gm Adim7 A# Cm Dm D# F
+    - A Locrian     -   Adim7 A# Cm Dm D# F Gm
+    - A# Ionian     -   A# Cm Dm D# F Gm Adim7
 
 #### Phrygian
 - Toonladder
