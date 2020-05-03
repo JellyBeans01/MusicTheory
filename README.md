@@ -124,19 +124,19 @@ Adim7 A# Cm Dm D# F Gm
 - A Aeolian uses the same chords as  
 | Mode | Chords |
 | ---- |:------:|
-| A# Ionian | A# Cm Dm D# F Gm Adim7 |
-| C Dorian | Cm Dm D# F Gm Adim7 A# |
-| D Phrygian | Dm D# F Gm Adim7 A# Cm |
+|  | A# Cm Dm D# F Gm Adim7 |
+|  | Cm Dm D# F Gm Adim7 A# |
+|  | Dm D# F Gm Adim7 A# Cm |
 | D# Lydian | D# F Gm Adim7 A# Cm Dm |
 | F Mixolydian | F Gm Adim7 A# Cm Dm D# |
 | G Aeolian | Gm Adim7 A# Cm Dm D# F | 
 
 
-| Tables        | Are           |
-| ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Mode           | Chords               |
+| -------------- |:--------------------:|
+| A# Ionian      | right-aligned |
+| C Dorian       | centered      |
+| D Phrygian     | are neat      |
 
 ### Ex 2: A#
 
