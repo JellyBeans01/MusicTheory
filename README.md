@@ -84,7 +84,7 @@ A B C#m D#dim7 E F#m G#m
     - F# Dorian     -   F#m G#m A B C#m D#dim7 E
     - G# Phrygian   -   G#m A B C#m D#dim7 E F#m
 
-#### MixoLydian
+#### Mixolydian
 - Scale  
 A B C# D E F# G
 
@@ -123,7 +123,7 @@ Adim7 A# Cm Dm D# F Gm
 
 - A Aeolian uses the same chords as  
 | Mode | Chords |
-|------|--------|
+| ---- |:------:|
 | A# Ionian | A# Cm Dm D# F Gm Adim7 |
 | C Dorian | Cm Dm D# F Gm Adim7 A# |
 | D Phrygian | Dm D# F Gm Adim7 A# Cm |
