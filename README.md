@@ -85,7 +85,19 @@ A B C#m D#dim7 E F#m G#m
     - G# Phrygian   -   G#m A B C#m D#dim7 E F#m
 
 #### MixoLydian
+- Scale  
+A B C# D E F# G
 
+- Chords  
+A Bm C#dim7 D Em F#m G
+
+- A Mixolydian uses the same chords as
+    - B Aeolian     -   Bm C#dim7 D Em F#m G A
+    - C# Locrian    -   C#dim7 D Em F#m G A Bm
+    - D Ionian      -   D Em F#m G A Bm C#dim7
+    - E Dorian      -   Em F#m G A Bm C#dim7 D
+    - F# Phrygian   -   F#m G A Bm C#dim7 D Em
+    - G Lydian      -   G A Bm C#dim7 D Em F#m
 
 #### Aeolian
 
