@@ -70,15 +70,24 @@ Am A# C Dm Edim7 F Gm
     - G Dorian      -   Gm Am A# C Dm Edim7 F
 
 #### Lydian
+- Scale  
+A B C# D# E F# G#
 
+- Chords  
+A B C#m D#dim7 E F#m G#m
 
+- A Lydian uses the same chords as
+    - B Mixolydian  -   B C#m D#dim7 E F#m G#m A
+    - C# Aeolian    -   C#m D#dim7 E F#m G#m A B
+    - D# Locrian    -   D#dim7 E F#m G#m A B C#m
+    - E Ionian      -   E F#m G#m A B C#m D#dim7
+    - F# Dorian     -   F#m G#m A B C#m D#dim7 E
+    - G# Phrygian   -   G#m A B C#m D#dim7 E F#m
 
 #### MixoLydian
 
 
-
 #### Aeolian
-
 
 
 #### Locrian
