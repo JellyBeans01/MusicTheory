@@ -100,7 +100,19 @@ A Bm C#dim7 D Em F#m G
     - G Lydian      -   G A Bm C#dim7 D Em F#m
 
 #### Aeolian
+- Scale  
+A B C D E F G
 
+- Chords  
+Am Bdim7 C Dm Em F G
+
+- A Aeolian uses the same chords as
+    - B Locrian     -   Bdim7 C Dm Em F G Am
+    - C Ionian      -   C Dm Em F G Am Bdim7
+    - D Dorian      -   Dm Em F G Am Bdim7 C
+    - E Phrygian    -   Em F G Am Bdim7 C Dm
+    - F Lydian      -   F G Am Bdim7 C Dm Em
+    - G Mixolydian  -   G Am Bdim7 C Dm Em F
 
 #### Locrian
 
