@@ -38,9 +38,9 @@ A Bm C#m D E F#m G#dim7
 | B Dorian       | Bm C#m D E F#m G#dim7 A  |
 | C# Phrygian    | C#m D E F#m G#dim7 A Bm  |
 | D Lydian       | D E F#m G#dim7 A Bm C#m  |
-| E Mixolydian   | E F#m G#dim7 A Bm C#m    |
+| E Mixolydian   | E F#m G#dim7 A Bm C#m D  |
 | F# Aeolian     | F#m G#dim7 A Bm C#m D E  |
-| G# Locrian     | G#dim7 A Bm C#m D E F#   |
+| G# Locrian     | G#dim7 A Bm C#m D E F#m  |
 
 #### Dorian
 - Scale  
