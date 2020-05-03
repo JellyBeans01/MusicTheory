@@ -31,13 +31,16 @@ A B C# D E F# G#
 - Chords  
 A Bm C#m D E F#m G#dim7
 
-- A Ionian uses the same chords as
-    - B Dorian      -   Bm C#m D E F#m G#dim7 A
-    - C# Phrygian   -   C#m D E F#m G#dim7 A Bm
-    - D Lydian      -   D E F#m G#dim7 A Bm C#m
-    - E Mixolydian  -   E F#m G#dim7 A Bm C#m D
-    - F# Aeolian    -   F#m G#dim7 A Bm C#m D E
-    - G# Locrian    -   G#dim7 A Bm C#m D E F#m
+- A Ionian uses the same chords as  
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| B Dorian       | Bm C#m D E F#m G#dim7 A  |
+| C# Phrygian    | C#m D E F#m G#dim7 A Bm  |
+| D Lydian       | D E F#m G#dim7 A Bm C#m  |
+| E Mixolydian   | E F#m G#dim7 A Bm C#m    |
+| F# Aeolian     | F#m G#dim7 A Bm C#m D E  |
+| G# Locrian     | G#dim7 A Bm C#m D E F#   |
 
 #### Dorian
 - Scale  
@@ -46,13 +49,16 @@ A B C D E F# G
 - Chords  
 Am Bm C D Em F#dim7 G
 
-- A Dorian uses the same chords as
-    - B Phrygian    -   Bm C D Em F#dim7 G Am
-    - C Lydian      -   C D Em F#dim7 G Am Bm
-    - D Mixolydian  -   D Em F#dim7 G Am Bm C
-    - E Aeolian     -   Em F#dim7 G Am Bm C D
-    - F# Locrian    -   F#dim7 G Am Bm C D Em
-    - G Ionian      -   G Am Bm C D Em F#dim7
+- A Dorian uses the same chords as 
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| B Phrygian     | Bm C D Em F#dim7 G Am    |
+| C Lydian       | C D Em F#dim7 G Am Bm    |
+| D Mixolydian   | D Em F#dim7 G Am Bm C    |
+| E Aeolian      | Em F#dim7 G Am Bm C D    |
+| F# Locrian     | F#dim7 G Am Bm C D Em    |
+| G Ionian       | G Am Bm C D Em F#dim7    |
 
 #### Phrygian
 - Scale  
@@ -62,12 +68,15 @@ A A# C D E F G
 Am A# C Dm Edim7 F Gm
 
 - A Phrygian uses the same chords as
-    - A# Lydian     -   A# C Dm Edim7 F Gm Am
-    - C Mixolydian  -   C Dm Edim7 F Gm Am A#
-    - D Aeolian     -   Dm Edim7 F Gm Am A# C
-    - E Locrian     -   Edim7 F Gm Am A# C Dm
-    - F Ionian      -   F Gm Am A# C Dm Edim7
-    - G Dorian      -   Gm Am A# C Dm Edim7 F
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| A# Lydian      | A# C Dm Edim7 F Gm Am    |
+| C Mixolydian   | C Dm Edim7 F Gm Am A#    |
+| D Aeolian      | Dm Edim7 F Gm Am A# C    |
+| E Locrian      | Edim7 F Gm Am A# C Dm    |
+| F Ionian       | F Gm Am A# C Dm Edim7    |
+| G Dorian       | Gm Am A# C Dm Edim7 F    |
 
 #### Lydian
 - Scale  
@@ -76,13 +85,16 @@ A B C# D# E F# G#
 - Chords  
 A B C#m D#dim7 E F#m G#m
 
-- A Lydian uses the same chords as
-    - B Mixolydian  -   B C#m D#dim7 E F#m G#m A
-    - C# Aeolian    -   C#m D#dim7 E F#m G#m A B
-    - D# Locrian    -   D#dim7 E F#m G#m A B C#m
-    - E Ionian      -   E F#m G#m A B C#m D#dim7
-    - F# Dorian     -   F#m G#m A B C#m D#dim7 E
-    - G# Phrygian   -   G#m A B C#m D#dim7 E F#m
+- A Lydian uses the same chords as 
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| B Mixolydian   | B C#m D#dim7 E F#m G#m A |
+| C# Aeolian     | C#m D#dim7 E F#m G#m A B |
+| D# Locrian     | D#dim7 E F#m G#m A B C#m |
+| E Ionian       | E F#m G#m A B C#m D#dim7 |
+| F# Dorian      | F#m G#m A B C#m D#dim7 E |
+| G# Phrygian    | G#m A B C#m D#dim7 E F#m |
 
 #### Mixolydian
 - Scale  
@@ -91,13 +103,16 @@ A B C# D E F# G
 - Chords  
 A Bm C#dim7 D Em F#m G
 
-- A Mixolydian uses the same chords as
-    - B Aeolian     -   Bm C#dim7 D Em F#m G A
-    - C# Locrian    -   C#dim7 D Em F#m G A Bm
-    - D Ionian      -   D Em F#m G A Bm C#dim7
-    - E Dorian      -   Em F#m G A Bm C#dim7 D
-    - F# Phrygian   -   F#m G A Bm C#dim7 D Em
-    - G Lydian      -   G A Bm C#dim7 D Em F#m
+- A Mixolydian uses the same chords as  
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| B Aeolian      | Bm C#dim7 D Em F#m G A   |
+| C# Locrian     | C#dim7 D Em F#m G A Bm   |
+| D Ionian       | D Em F#m G A Bm C#dim7   |
+| E Dorian       | Em F#m G A Bm C#dim7 D   |
+| F# Phrygian    | F#m G A Bm C#dim7 D Em   |
+| G Lydian       | G A Bm C#dim7 D Em F#m   |
 
 #### Aeolian
 - Scale  
@@ -124,7 +139,7 @@ A A# C D D# F G
 - Chords  
 Adim7 A# Cm Dm D# F Gm
 
-- A Aeolian uses the same chords as  
+- A Aeolian uses the same chords as
 
 | Mode           | Chords                   |
 | -------------- |:------------------------:|
@@ -136,6 +151,15 @@ Adim7 A# Cm Dm D# F Gm
 | G Aeolian      | Gm Adim7 A# Cm Dm D# F   |
 
 ### Ex 2: A#
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
 
 ### Ex 3: B
 
@@ -155,6 +179,15 @@ C Dm Em F G Am Bdim7
     - A Aeolian     -   Am Bdim7 C Dm Em F G
     - B Locrian     -   Bdim7 C Dm Em F G Am
 
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+
 #### Dorian
 - Scale  
 C D D# F G A A#
@@ -169,6 +202,15 @@ Cm Dm D# F Gm Adim7 A#
     - G Aeolian     -   Gm Adim7 A# Cm Dm D# F
     - A Locrian     -   Adim7 A# Cm Dm D# F Gm
     - A# Ionian     -   A# Cm Dm D# F Gm Adim7
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
 
 #### Phrygian
 - Scale  
@@ -185,6 +227,15 @@ Cm C# D# Fm Gdim7 G# A#m
     - G# Ionian     -   G# A#m Cm C# D# Fm Gdim7
     - A# Dorian     -   A#m Cm C# D# Fm Gdim7 G#
 
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+
 #### Lydian
 - Scale  
 C D E F# G A B
@@ -199,6 +250,15 @@ C D Em F#dim7 G Am Bm
     - G Ionian      -   G Am Bm C D Em F#dim7
     - A Dorian      -   Am Bm C D Em F#dim7 G
     - B Phrygian    -   Bm C D Em F#dim7 G Am
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
 
 #### Mixolydian
 - Scale  
@@ -215,6 +275,15 @@ C Dm Edim7 F Gm Am A#
     - A Phrygian    -   Am A# C Dm Edim7 F Gm
     - A# Lydian     -   A# C Dm Edim7 F Gm Am
 
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+
 #### Aeolian
 - Scale  
 C D D# F G G# A#
@@ -230,6 +299,15 @@ Cm Ddim7 D# Fm Gm G# A#
     - G# Lydian     -   G# A# Cm Ddim7 D# Fm Gm
     - A# Mixolydian -   A# Cm Ddim7 D# Fm Gm G#
 
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+
 #### Locrian
 - Scale  
 C C# D# F F# G# A#
@@ -244,6 +322,15 @@ Cdim7 C# D#m Fm F# G# A#m
     - F# Lydian     -   F# G# A#m Cdim7 C# D#m Fm
     - G# Mixolydian -   G# A#m Cdim7 C# D#m Fm F#
     - A# Aeolian    -   A#m Cdim7 C# D#m Fm F# G#
+
+| Mode           | Chords                   |
+| -------------- |:------------------------:|
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
+| |      |
 
 ### Ex 5: C#
 
