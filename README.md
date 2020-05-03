@@ -25,10 +25,10 @@ A A# B C C# D D# E F F# G G#
 ## Exercises
 ### Ex 1: A
 #### Ionian
-- Scale
+- Scale  
 A B C# D E F# G#
 
-- Chords
+- Chords  
 A Bm C#m D E F#m G#dim7
 
 - A Ionian uses the same chords as
@@ -38,6 +38,39 @@ A Bm C#m D E F#m G#dim7
     - E Mixolydian  -   E F#m G#dim7 A Bm C#m D
     - F# Aeolian    -   F#m G#dim7 A Bm C#m D E
     - G# Locrian    -   G#dim7 A Bm C#m D E F#m
+
+#### Dorian
+- Scale  
+A B C D E F# G
+
+- Chords  
+Am Bm C D Em F#dim7 G
+
+- A Dorian uses the same chords as
+    - B Phrygian    -   Bm C D Em F#dim7 G Am
+    - C Lydian      -   C D Em F#dim7 G Am Bm
+    - D Mixolydian  -   D Em F#dim7 G Am Bm C
+    - E Aeolian     -   Em F#dim7 G Am Bm C D
+    - F# Locrian    -   F#dim7 G Am Bm C D Em
+    - G Ionian      -   G Am Bm C D Em F#dim7
+
+#### Phrygian
+
+
+
+#### Lydian
+
+
+
+#### MixoLydian
+
+
+
+#### Aeolian
+
+
+
+#### Locrian
 
 ### Ex 2: A#
 
