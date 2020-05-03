@@ -55,8 +55,19 @@ Am Bm C D Em F#dim7 G
     - G Ionian      -   G Am Bm C D Em F#dim7
 
 #### Phrygian
+- Scale  
+A A# C D E F G
 
+- Chords  
+Am A# C Dm Edim7 F Gm
 
+- A Phrygian uses the same chords as
+    - A# Lydian     -   A# C Dm Edim7 F Gm Am
+    - C Mixolydian  -   C Dm Edim7 F Gm Am A#
+    - D Aeolian     -   Dm Edim7 F Gm Am A# C
+    - E Locrian     -   Edim7 F Gm Am A# C Dm
+    - F Ionian      -   F Gm Am A# C Dm Edim7
+    - G Dorian      -   Gm Am A# C Dm Edim7 F
 
 #### Lydian
 
