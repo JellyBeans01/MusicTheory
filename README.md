@@ -131,6 +131,13 @@ Adim7 A# Cm Dm D# F Gm
 | F Mixolydian | F Gm Adim7 A# Cm Dm D# |
 | G Aeolian | Gm Adim7 A# Cm Dm D# F | 
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ### Ex 2: A#
 
 ### Ex 3: B
