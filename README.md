@@ -121,7 +121,7 @@ A A# C D D# F G
 - Chords  
 Adim7 A# Cm Dm D# F Gm
 
-- A Aeolian uses the same chords as
+- A Aeolian uses the same chords as  
 | Mode | Chords |
 |------|--------|
 | A# Ionian | A# Cm Dm D# F Gm Adim7 |
@@ -196,7 +196,7 @@ C D Em F#dim7 G Am Bm
     - A Dorian      -   Am Bm C D Em F#dim7 G
     - B Phrygian    -   Bm C D Em F#dim7 G Am
 
-#### MixoLydian
+#### Mixolydian
 - Scale  
 C D E F G A A#
 
